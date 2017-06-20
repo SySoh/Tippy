@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Tippy*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tippy** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Shao Yie Soh**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/V8DIKPT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -43,7 +43,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2017] [Shao Yie Soh]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
